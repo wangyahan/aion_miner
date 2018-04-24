@@ -1,4 +1,4 @@
-﻿# Aion Miner
+﻿# Aion Miner  Mytest
 
 ### About
 Welcome to the Aion mining repository, this repository will contain documentation, mining details and reference implementations of CPU and CUDA miners for the Aion blockchain. 
